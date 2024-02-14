@@ -1,5 +1,5 @@
 # Housing-Affordability
-Data analytics research conducted on the state of housing affordability in the United States.
+Data analytics research conducted with Python programming on the state of housing affordability in the United States.
 
 # File Organization
 * For research report look at file ExaminingHousingAffordabilityInTheUnitedStates.pdf
